@@ -1,0 +1,55 @@
+CS 2150
+ - Program and Data Representation
+ - Lists (and a bit more C++)
+
+Standard Library: vector
+ - Standard Library
+ - Vector: a "growable" array
+ - Iterators
+ - Vector iterator usage
+ - Iterators (cont'd)
+
+C++ Templates
+ - Templates
+ - Function Templates
+ - Example, continued
+ - findMax() Expanded
+ - Class Templates
+ - ObjectCell Template Class
+ - Using ObjectCell class template
+ - Templates Miscellaneous
+ - STL usage
+
+Stacks
+ - Stacks
+ - Stack Applications
+ - Stack Applications: Symbol Balancing
+ - Stack Applications: Postfix Calculator
+ - Stack Applications: Activation Records
+ - Stack: Linked List Implementation
+ - Stack: Array Implementation
+ - Stack: Vector Implementation
+ - How Would You Implement these?
+
+Queues
+ - Queues
+ - Queue Applications
+ - Implementations
+ - Queue: Array Implementation
+ - Queue: Linked List Implementation
+
+Abstract Data Types: Lists
+ - Abstract Data Types (ADT)
+ - Lists ADT
+ - List ADT Operations
+ - Example
+ - Implementation of Lists: Arrays
+ - List Implementation: Linked List
+ - Linked List insert()
+ - List Iterators
+
+Standard Library: string
+ - C++ string
+ - Selected Method Descriptions
+ - Closing thoughts on strings
+
